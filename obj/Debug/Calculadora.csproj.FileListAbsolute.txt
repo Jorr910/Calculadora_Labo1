@@ -1,0 +1,7 @@
+C:\Users\gorge\Documents\pooo\ConsoleApplication1\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\gorge\Documents\pooo\ConsoleApplication1\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\gorge\Documents\pooo\ConsoleApplication1\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\gorge\Documents\pooo\ConsoleApplication1\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\gorge\Documents\pooo\ConsoleApplication1\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\gorge\Documents\pooo\ConsoleApplication1\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\gorge\Documents\pooo\ConsoleApplication1\Calculadora\obj\Debug\Calculadora.pdb
